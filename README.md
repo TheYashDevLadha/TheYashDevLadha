@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **DSA**
 
- <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+ <img hight="300" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=Learning+%3A" alt="Typing SVG" /></a>
 - ✨ Data Structures & Algorithms
