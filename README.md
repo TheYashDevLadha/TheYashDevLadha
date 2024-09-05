@@ -8,11 +8,11 @@
 
 <br/>
 
-<div align="">
+
  
  🔭 I’m currently pursuing Bachelors in Computer Science Engineering 
  
- 🌱 I’m currently learning **Docker, Jenkins, Kubernetes, AWS**
+ 🌱 I’m currently learning **DSA**
 
  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -24,7 +24,7 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Badminton (Neighbourhood Professional XD)
- </div>
+  
  
 
 <!-- <div align="center"> 
@@ -40,24 +40,31 @@
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%92%EF%B8%8F+Languages-Tools+%E2%9A%92%EF%B8%8F" alt="Typing SVG" /></a></h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,mysql,flask" /><br>
 </div>
 
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="github-user-contribution.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 
 
 
 
-<!--- 👋 Hi, I’m YashDevLadha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+<!--- 
 TheYashDevLadha/TheYashDevLadha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
