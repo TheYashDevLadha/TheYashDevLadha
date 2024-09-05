@@ -5,26 +5,19 @@
 </h1>
 
 <h3 align="center">I'm 20 years old Data Science & Machine Learning Enthusiast from India.</h3>
+<h4 align='center'>🔭 I’m currently pursuing Bachelors in Computer Science Engineering </h4>
 
-<br/>
-
-
- 
- 🔭 I’m currently pursuing Bachelors in Computer Science Engineering 
- 
- 🌱 I’m currently learning **DSA**
-
+ <br/>
  
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
+### 🌱 Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Power BI
 
-### - Hobbies : 
+### 🎯 Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
 - ✨ Badminton (Neighbourhood Professional XD)
 
 </br>
