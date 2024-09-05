@@ -14,11 +14,12 @@
  
  🌱 I’m currently learning **DSA**
 
- <img hight="300" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+ 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=Learning+%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Learning" alt="Typing SVG" /></a>
+<img hight="300" width="470" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Power BI
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=Hobbies+%3A+" alt="Typing SVG" /></a>
 - ✨ Gaming Addict
@@ -35,7 +36,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> -->
 
- <hr/>
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%92%EF%B8%8F+Languages-Tools+%E2%9A%92%EF%B8%8F" alt="Typing SVG" /></a></h2>
 <br/>
@@ -46,17 +46,17 @@
 
 
 <br/>
-<hr/>
+
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%90%8D+My+Contributions+%F0%9F%90%8D" alt="Typing SVG" /></a></h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/TheYashDevLadha/TheYashDevLadha/blob/output/github-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
 
-<hr/>
+
 
 
 
