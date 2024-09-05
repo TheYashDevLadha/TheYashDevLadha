@@ -15,9 +15,8 @@
  🌱 I’m currently learning **DSA**
 
  
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Learning" alt="Typing SVG" /></a>
 <img hight="300" width="470" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Learning" alt="Typing SVG" /></a>
 - ✨ Data Structures & Algorithms
 - ✨ Power BI
 
