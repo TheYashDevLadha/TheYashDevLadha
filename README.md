@@ -10,7 +10,7 @@
 
  <br/>
  
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="Assets/Goku.gif">
 
 ### 🌱 Learning :
 - 🧠 Data Structures & Algorithms
@@ -74,16 +74,16 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="Assets/Be_careful.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:Yashdevladdha@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="Assets/Icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/yash-dev-laddha-81637b318/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="Assets/Icons/linkedin.png" />
 </br>
 </br>
 </br>
@@ -92,7 +92,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt=" Instagram" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198981743727">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="Assets/Icons/steam.png" />
 </a>
  </p>
  </div>
