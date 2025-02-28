@@ -14,7 +14,7 @@
 
 ### 🌱 Learning :
 - 🧠 Data Structures & Algorithms
-- ✨ Power BI
+- ✨ SQL
 
 ### 🎯 Hobbies : 
 - 🕹️ Gaming Addict
