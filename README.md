@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Konichiwa+%F0%9F%91%8B;I'm+Yash+Dev+Ladha" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">I'm 20 years old Data Science & Machine Learning Enthusiast from India.</h3>
+<h3 align="center">I'm 21 years old Data Science & Machine Learning Enthusiast from India.</h3>
 <h4 align='center'>🔭 I’m currently pursuing Bachelors in Computer Science Engineering </h4>
 
  <br/>
