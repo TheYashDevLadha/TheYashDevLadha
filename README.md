@@ -81,10 +81,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 <a href="mailto:Yashdevladdha@gmail.com">
- <img align="left" alt="Gmail" width="180" hight="150" src="Assets/Icons/gmail.png" />
+ <img align="left" alt="Gmail" width="200" hight="150" src="Assets/Icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/yash-dev-laddha-81637b318/">
-  <img align="left" alt="Linkedin" width="180" hight="150" src="Assets/Icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="200" hight="150" src="Assets/Icons/linkedin.png" />
 </br>
 </br>
 </br>
