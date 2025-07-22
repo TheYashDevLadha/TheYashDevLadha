@@ -74,17 +74,17 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="Assets/Sleep.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="Assets/Dragon_Balls.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 </br>
 </br>
 <a href="mailto:Yashdevladdha@gmail.com">
- <img align="left" alt="Gmail" width="200" hight="150" src="Assets/Icons/gmail.png" />
+ <img align="left" alt="Gmail" width="150" hight="120" src="Assets/Icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/yash-dev-laddha-81637b318/">
-  <img align="left" alt="Linkedin" width="200" hight="150" src="Assets/Icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="180" hight="120" src="Assets/Icons/linkedin.png" />
 </br>
 </br>
 </br>
