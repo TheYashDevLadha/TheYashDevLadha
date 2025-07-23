@@ -57,8 +57,10 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=TheYashDevLadha&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" /></a>
  </br>
  </br>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TheYashDevLadha&theme=blue_navy&hide_border=false" alt="readme stats" />
-<!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYashDevLadha&theme=blue-navy" alt="GitHub Streak" /></a> -->
+ 
+  <img width=390 src="https://github-readme-streak-stats-eight.vercel.app?user=TheYashDevLadha&theme=blue_navy&hide_border=false" alt="readme stats" />
+  <!-- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TheYashDevLadha&theme=blue_navy&hide_border=false" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYashDevLadha&theme=blue-navy" alt="GitHub Streak" /></a> -->
   </br>
  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYashDevLadha&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
